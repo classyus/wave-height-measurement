@@ -35,4 +35,3 @@ longitude = -80.130045
 
 # Example usage
 print(get_wave_height(latitude, longitude))
-4567
